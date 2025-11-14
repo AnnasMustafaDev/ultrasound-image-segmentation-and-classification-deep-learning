@@ -78,7 +78,7 @@ A set of **geometric**, **shape-based**, and **morphological** features are comp
 
 ### Shape Properties (Roundedness, Solidity, Axes)
 
-![OpenCV Shape Properties](images/opencv-contour-roundedness-solidity-major and minor axis.png)
+![OpenCV Shape Properties](images/opencv-contour-roundedness-solidity-major-and-minor-axis.png)
 
 These features help quantify the lesion/structure's characteristics and improve downstream classifier accuracy.
 
